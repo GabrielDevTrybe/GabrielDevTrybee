@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá, meu nome é **Gabriel Coelho**, sou de Campinas, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos e testes de ensaios em diversas linguagens. </br><br>
+Olá, meu nome é **Gabriel Coelho**, tenho 27 anos, sou de Campinas, Estudante de Desenvolvimento Web Full Stack na Trybe, este é o meu repositório para fins de estudos e testes de ensaios em diversas linguagens. Atualmente estou procurando uma vaga em Front-End </br><br>
 [<img src="https://github.com/D-Wolter/D-Wolter/blob/main/Images/tryberLogo.jpg" width="50" height="50" />](https://www.betrybe.com)<br>
 <br>
 
